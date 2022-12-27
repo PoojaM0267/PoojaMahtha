@@ -1,0 +1,5 @@
+TODO:
+
+1. Make Social links open in new tabs
+2. Get a BG picture for the main page.
+3. Implement Download CV feature.
